@@ -1,2 +1,2 @@
 # CovidPenguins
-A Covid-19 spread model using penguins agents
+A Covid-19 spread model using penguim agents
